@@ -1,16 +1,18 @@
 ### Hi there 👋
+- 🔭 I’m working towards a master’s degree
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👯 I’m looking to collaborate on open source projects
 
-<!--
-**rbuj/rbuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___Tools___
 
-Here are some ideas to get you started:
+[<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png' alt='postgresql' height='40'>](https://github.com/topics/postgresql)
+ [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png' alt='mysql' height='40'>](https://github.com/topics/mysql) [<img src='https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png' alt='sqlserver' height='40'>](https://github.com/topics/sql-server) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png' alt='aspnet' height='40'>](https://github.com/topics/aspnet) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'>](https://github.com/topics/vscode) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'>](https://github.com/topics/git) [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/topics/github) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png' alt='matlab' height='40'>](https://github.com/topics/matlab)
+ [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png' alt='github' height='40'>](https://github.com/topics/bash) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png' alt='js' height='40'>](https://github.com/topics/arduino)
+[<img src='https://www.gtk.org/assets/img/logo-gtk-sm.png' alt='GTK' height='40'>](https://github.com/topics/gtk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+___Programming Languages___
+
+[<img src='https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png' alt='assembly' height='40'>](https://github.com/topics/assembly) [<img src='https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png' alt='C' height='40'>](https://github.com/topics/c) [<img src='https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png' alt='C++' height='40'>](https://github.com/topics/cpp) [<img src='https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png' alt='C#' height='40'>](https://github.com/topics/csharp) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png' alt='python' height='40'>](https://github.com/topics/python) [<img src='https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png' alt='java' height='40'>](https://github.com/topics/java)
+ [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'>](https://github.com/topics/html) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'>](https://github.com/topics/css) [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'>](https://github.com/topics/js) [<img src='https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png' alt='php' height='40'>](https://github.com/topics/php)
+
